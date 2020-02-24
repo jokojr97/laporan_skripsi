@@ -1,0 +1,6 @@
+//konsep dasar database
+https://books.google.co.id/books?hl=id&lr=&id=tW0MAPGoaVAC&oi=fnd&pg=PA17&dq=Database+adalah&ots=Qhw3SkPfSI&sig=P16RU3Uku2V8Av2Vv6yV5fNhGYI&redir_esc=y#v=onepage&q=Database%20adalah&f=false
+
+//rekayasa web
+https://books.google.co.id/books?hl=id&lr=&id=J8JpLoPUHGAC&oi=fnd&pg=PR3&dq=aplikasi+web+adalah&ots=dQrh7ZUyZZ&sig=Ysu-ET95EMNWGYs9kWROwZWgI8c&redir_esc=y#v=onepage&q=aplikasi%20web%20adalah&f=false
+
