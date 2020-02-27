@@ -4,3 +4,5 @@ https://books.google.co.id/books?hl=id&lr=&id=tW0MAPGoaVAC&oi=fnd&pg=PA17&dq=Dat
 //rekayasa web
 https://books.google.co.id/books?hl=id&lr=&id=J8JpLoPUHGAC&oi=fnd&pg=PR3&dq=aplikasi+web+adalah&ots=dQrh7ZUyZZ&sig=Ysu-ET95EMNWGYs9kWROwZWgI8c&redir_esc=y#v=onepage&q=aplikasi%20web%20adalah&f=false
 
+//kebijakan open data kontrak 
+http://eprints.ipdn.ac.id/2858/
